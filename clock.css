@@ -1,0 +1,13 @@
+body {
+ background-color: #090401;
+ color: #9D5522;
+}
+
+#timedate {
+  font-family: monospace;
+  font-size: 10vw;
+  text-align:center;
+  top: 40%;
+  width: 100%;
+  position: absolute;
+}
